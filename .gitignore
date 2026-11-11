@@ -1,0 +1,17 @@
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Editor / OS cruft
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build output (if an .exe version is added later)
+*.exe
+*.obj
+*.pdb
+bin/
+obj/
